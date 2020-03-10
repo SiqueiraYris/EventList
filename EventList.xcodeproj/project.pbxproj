@@ -119,12 +119,12 @@
 		4E9CD44723999705007A194F /* EventList */ = {
 			isa = PBXGroup;
 			children = (
-				4E9CD494239ABC88007A194F /* Protocols */,
-				4E9CD4822399DCC3007A194F /* Extensions */,
 				4E9CD47C2399C52E007A194F /* Application */,
+				4E9CD4822399DCC3007A194F /* Extensions */,
 				4E9CD47123999FE0007A194F /* Models */,
+				4E9CD494239ABC88007A194F /* Protocols */,
 				4E9CD46B23999EA3007A194F /* Resources */,
-				4E9CD46A23999E92007A194F /* Modules */,
+				4E9CD46A23999E92007A194F /* Scenes */,
 			);
 			path = EventList;
 			sourceTree = "<group>";
@@ -140,14 +140,14 @@
 			path = EventListTests;
 			sourceTree = "<group>";
 		};
-		4E9CD46A23999E92007A194F /* Modules */ = {
+		4E9CD46A23999E92007A194F /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
-				4E9CD47D2399CAB9007A194F /* Storyboards */,
-				4E9CD46C23999EC0007A194F /* EventList */,
 				4E9CD46D23999ECB007A194F /* EventDetail */,
+				4E9CD46C23999EC0007A194F /* EventList */,
+				4E9CD47D2399CAB9007A194F /* Storyboards */,
 			);
-			path = Modules;
+			path = Scenes;
 			sourceTree = "<group>";
 		};
 		4E9CD46B23999EA3007A194F /* Resources */ = {
